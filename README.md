@@ -145,10 +145,6 @@ Plotly provides a rich set of customization options, including changing themes, 
 
 Feel free to fork this project, report any issues, or contribute new features via pull requests. If you would like to add more examples or expand the library, your contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 By following this structure, you provide a comprehensive guide to using Plotly, showcasing its capabilities, installation steps, common use cases, and example code, making it easier for users to get started with the library.
